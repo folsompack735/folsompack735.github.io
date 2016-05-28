@@ -1,0 +1,15 @@
+{
+	'8' : {
+		'number': 8,
+	    'rank': 'Webelos I',
+	    'leaders': ['David Hosier', 'Mike Kooken', 'Jeff Suneson'],
+	    'contact': 'hosier.david@gmail.com',
+	    'folder': '/scouts/webelos'
+	},
+	'3' : {
+		'number': 3,
+	    'rank': 'Wolf',
+	    'leaders': ['Tom Sutton'],
+	    'contact': 'tstutton68@gmail.com',
+	}
+}
